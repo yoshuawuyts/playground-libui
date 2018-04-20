@@ -1,0 +1,7 @@
+[package]
+name = "playground-libui"
+version = "0.1.0"
+authors = ["Yoshua Wuyts <yoshuawuyts@gmail.com>"]
+
+[dependencies]
+iui = "0.2.0"
